@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Hedaer() {
+function Header() {
   return (
     <div>
       Header
@@ -8,5 +8,5 @@ function Hedaer() {
   )
 }
 
-export default Hedaer
+export default Header
 
